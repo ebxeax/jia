@@ -9,7 +9,7 @@ tags: CV
 
 SPTAG构建索引过程，主要由两个步骤，先对空间做分割，具体采用构建Tree（采用KD树或KMeans），然后再构建Relative Neighborhood Graph。其中，Tree的叶节点位置，充当为子Graph的入节点。该过程官网给给了一个很直观的示意图：
 
-![drawing](http://yongyuan.name/imgs/posts/sptag.png)
+![drawing](http://ebxeax.name/imgs/posts/sptag.png)
 
 上述示意图表达了SPTAG的核心思想：先构建Tree结构（图中黄色、绿色、蓝色圈圈所示，为Tree的节点），然后再构建Relative Neighborhood Graph，每一个叶节点会当做每个子邻域Graph的入节点。在搜索的时候，通过二叉查找，找到跟query距离最近的叶节点，便可以快速锁定到目标子邻域Graph，然后在子邻域Grap里面找到K近邻。
 
@@ -36,6 +36,6 @@ SPTAG跟HNSW，都属于Graph索引方法，所以两者有很多相似的地方
 
 可以从下面SPTAG和HNSW示意图，更直观的感受二者的相似点与差异点：
 
-![drawing](http://yongyuan.name/imgs/posts/sptag_hnsw.jpg)
+![drawing](http://ebxeax.name/imgs/posts/sptag_hnsw.jpg)
 
 最底下一层都是索引的元素，上面几层构建的目的，都是为了快速搜寻到目标子区域，而构建的查找"捷径"。从入节点的构造方式上来看，HNSW的处理手段更高明，代码看上去更简洁、优雅，而SPTAG除了Graph本身外，由于采用Tree方法作为入节点，在实现过程中，需要引入两种数据结构。

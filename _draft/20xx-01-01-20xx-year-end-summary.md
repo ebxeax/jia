@@ -9,12 +9,12 @@ tags: 年终总结
 
 > You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something – your gut, destiny, life, karma, whatever.
 
-- [2019年，十年](https://yongyuan.name/blog/year-end-summary.html)
-- [2018年，云深不知处](http://yongyuan.name/blog/2018-year-end-summary.html)
-- [2017年，毕业一周年](http://yongyuan.name/blog/2017-year-end-summary.html)
-- [2016年，归零清空](http://yongyuan.name/blog/2016-year-end-summary.html)
-- [2015年，忙碌的一年](http://yongyuan.name/blog/2015-year-end-summary.html)
-- [2014年，三件小事](http://yongyuan.name/blog/2014-year-end-summary.html)
+- [2019年，十年](https://ebxeax.name/blog/year-end-summary.html)
+- [2018年，云深不知处](http://ebxeax.name/blog/2018-year-end-summary.html)
+- [2017年，毕业一周年](http://ebxeax.name/blog/2017-year-end-summary.html)
+- [2016年，归零清空](http://ebxeax.name/blog/2016-year-end-summary.html)
+- [2015年，忙碌的一年](http://ebxeax.name/blog/2015-year-end-summary.html)
+- [2014年，三件小事](http://ebxeax.name/blog/2014-year-end-summary.html)
 
 ## 工作
 

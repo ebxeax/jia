@@ -9,11 +9,11 @@ tags: Life
 
 每年年终总结的时候，自己都会重新翻一遍过往写的一些年终总结，同时也会对过去写的一些总结，在保持「历史」事件面貌不变的前提下，对内容文字、结构做一定的修正，并添加自己对个人「历史」的新感受。
 
-- [2018年，云深不知处](http://yongyuan.name/blog/2018-year-end-summary.html)
-- [2017年，毕业一周年](http://yongyuan.name/blog/2017-year-end-summary.html)
-- [2016年，归零清空](http://yongyuan.name/blog/2016-year-end-summary.html)
-- [2015年，忙碌的一年](http://yongyuan.name/blog/2015-year-end-summary.html)
-- [2014年，三件小事](http://yongyuan.name/blog/2014-year-end-summary.html)
+- [2018年，云深不知处](http://ebxeax.name/blog/2018-year-end-summary.html)
+- [2017年，毕业一周年](http://ebxeax.name/blog/2017-year-end-summary.html)
+- [2016年，归零清空](http://ebxeax.name/blog/2016-year-end-summary.html)
+- [2015年，忙碌的一年](http://ebxeax.name/blog/2015-year-end-summary.html)
+- [2014年，三件小事](http://ebxeax.name/blog/2014-year-end-summary.html)
 
 从 2009 年背着行李告别父母踏上长安，到 2019 年在京城已经工作3年，人生的第1个有意识的 10 年已经完结。看着自己从 2009 年显得笨拙的文笔到 2019 年稍有结构条理的年终总结，文字驾驭能力的进步，刻下的是一张青春阳光的脸到一张每天需要打理胡须的「成熟」脸，岁月总是如此的不饶人。
 
